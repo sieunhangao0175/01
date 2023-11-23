@@ -5,6 +5,7 @@
         $name = $_POST["name"];
         $email = $_POST["email"];
         $phone = $_POST["phone"];
+        $Diachinha = $_POST["Diachinha"];
         $us = $_POST["us"];
         $pa = $_POST["pa"];
         //kiem tra xem ten dang nhap da ton tai hay chua
